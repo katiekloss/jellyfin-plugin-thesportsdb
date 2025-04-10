@@ -1,0 +1,14 @@
+name: "TheSportsDB"
+guid: "2132c109-9733-45eb-921e-353a2547ee6f"
+version: 1
+targetAbi: "10.10.6.0"
+framework: "net8.0"
+owner: "katiekloss"
+overview: "TheSportsDB metadata provider"
+description: >
+  Experimental plugin for identifying TheSportsDB events and pulling event metadata
+
+category: "Metadata"
+artifacts:
+  - "Jellyfin.Plugin.TheSportsDb.dll"
+changelog: "Dummy changelog entry to make the build run"
