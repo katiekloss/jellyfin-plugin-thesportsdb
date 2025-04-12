@@ -9,7 +9,7 @@
             ],
             "label": "copy to plugins directory",
             "type": "shell",
-            "command": "mkdir -p /Users/katie/Library/Application\\ Support/jellyfin/plugins/TheSportsDb && cp ${cwd}/Jellyfin.Plugin.TheSportsDb/bin/Debug/net8.0/* /Users/katie/Library/Application\\ Support/jellyfin/plugins/TheSportsDb",
+            "command": "mkdir -p /Users/katie/Library/Application\\ Support/jellyfin/plugins/TheSportsDb && cp ${cwd}/Jellyfin.Plugin.TheSportsDb/bin/Debug/net9.0/Jellyfin.Plugin.TheSportsDb.dll /Users/katie/Library/Application\\ Support/jellyfin/plugins/TheSportsDb",
             "problemMatcher": [],
             "group": {
                 "kind": "build",
